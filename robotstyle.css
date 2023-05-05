@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #black ;
+    background: url ("https://github.com/fernandesgio/javascript/blob/main/fundo.png");
     background-position: center center;
     background-size: cover cover;
     padding: 0;
